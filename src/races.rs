@@ -5,9 +5,10 @@ use toml;
 use std::collections::HashMap;
 use std::ffi::OsStr;
 use std::fs::File;
-use std::io::Read;
+use std::io::{Read, Write};
 use std::ops::Add;
 use std::path::Path;
+use std;
 
 type Score = u8;
 #[derive(Debug, Clone, Default)]
@@ -156,6 +157,28 @@ pub struct PartialRaces {
     pub races: HashMap<String, PartialRace>
 }
 
+fn choose_race(sub: bool, races: &HashMap<String, PartialRace>) -> PartialRace {
+    loop {
+        print! {
+            "Which {}race: {}? ",
+            if sub { "sub" } else { "" },
+            races.keys().fold(String::new(), |acc, item| {
+                if acc.len() > 0 {
+                    acc + ", " + item
+                } else {
+                    acc + item
+                }
+            })
+        };
+        std::io::stdout().flush().expect("Unable to flush to stdout");
+        let mut choice = String::new();
+        std::io::stdin().read_line(&mut choice).expect("Unable to read input");
+        if races.contains_key(choice.trim()) {
+            return races[choice.trim()].clone();
+        }
+    }
+}
+
 impl PartialRaces {
     pub fn new<P: AsRef<OsStr>>(f: P) -> YAPCCResult<PartialRaces> {
         let mut file = try!(File::open(Path::new(&f)));
@@ -171,5 +194,14 @@ impl PartialRaces {
 
         println!("{:?}", parser.errors);
         Err(YAPCCError::GenericError)
+    }
+
+    pub fn choose(&self) -> Race {
+        let base_race = choose_race(false, &self.races);
+        let subrace = base_race.subraces.as_ref()
+            .map(|sr| choose_race(true, &sr))
+            .unwrap_or(Default::default())
+            .clone();
+        base_race.solidify(subrace)
     }
 }

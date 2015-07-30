@@ -1,6 +1,6 @@
 use csv;
 use error::YAPCCResult;
-use rustc_serialize::{Decodable, Decoder};
+use rustc_serialize::{Decodable, Decoder, Encodable, Encoder};
 
 use std::collections::HashMap;
 use std::ffi::OsStr;
@@ -10,7 +10,7 @@ use std::path::Path;
 
 macro_rules! gen_spell_traits {
     ($($name:ident),+) => {
-        #[derive(Debug, Clone)]
+        #[derive(Debug, Clone, RustcEncodable)]
         pub struct SpellTraits {
             pub $($name: bool),*
         }
@@ -26,7 +26,7 @@ macro_rules! gen_spell_traits {
 gen_spell_traits! { ritual, verbal, somatic, material, concentration,
                     bard, cleric, druid, paladin, ranger, sorcerer, warlock, wizard }
 
-#[derive(Debug, RustcDecodable, Clone)]
+#[derive(Debug, RustcDecodable, RustcEncodable, Clone)]
 pub struct Spell {
     pub name: String,
     pub page: u32,
