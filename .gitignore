@@ -16,3 +16,6 @@
 *.swn
 *.swm
 *.swl
+
+# Racer
+*.racertmp

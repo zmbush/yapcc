@@ -1,0 +1,362 @@
+Name,Page #,Level,School,Casting Time,Ritual,V,S,M,Concentration,Bard,Cleric,Druid,Paladin,Ranger,Sorcerer,Warlock,Wizard
+Acid Splash,211,0,Conjuration,1 Action,,x,x,,,,,,,,x,,x
+Aid,211,2,Abjuration,1 Action,,x,x,x,,,x,,x,,,,
+Alarm,211,1,Abjuration,1 Minute,x,x,x,x,,,,,,x,,,x
+Alter Self,211,2,Transmutation,1 Action,,x,x,,x,,,,,,x,,x
+Animal Friendship,212,1,Enchantment,1 Action,,x,x,x,,x,,x,,x,,,
+Animal Messenger,212,2,Enchantment,1 Action,x,x,x,x,,x,,x,,x,,,
+Animal Shapes,212,8,Transmutation,1 Action,,x,x,,x,,,x,,,,,
+Animate Dead,212,3,Necromancy,1 Minute,,x,x,x,,,x,,,,,,x
+Animate Objects,213,5,Transmutation,1 Action,,x,x,,x,x,,,,,x,,x
+Antilife Shell,213,5,Abjuration,1 Action,,x,x,,x,,,x,,,,,
+Antimagic Field,213,8,Abjuration,1 Action,,x,x,x,x,,x,,,,,,x
+Antipathy/Sympathy,214,8,Enchantment,1 Hour,,x,x,x,,,,x,,,,,x
+Arcane Eye,214,4,Divination,1 Action,,x,x,x,x,,,,,,,,x
+Arcane Gate,214,6,Conjuration,1 Action,,x,x,,x,,,,,,x,x,x
+Arcane Lock,215,2,Abjuration,1 Action,,x,x,x,,,,,,,,,x
+Armor of Agathys,215,1,Abjuration,1 Action,,x,x,x,,,,,,,,x,
+Arms of Hadar,215,1,Conjuration,1 Action,,x,x,,,,,,,,,x,
+Astral Projection,215,9,Necromancy,1 Hour,,x,x,x,,,x,,,,,x,x
+Augury,215,2,Divination,1 Minute,x,x,x,x,,,x,,,,,,
+Aura of Life,216,4,Abjuration,1 Action,,x,,,x,,,,x,,,,
+Aura of Purity,216,4,Abjuration,1 Action,,x,,,x,,,,x,,,,
+Aura of Vitality,216,3,Evocation,1 Action,,x,,,x,,,,x,,,,
+Awaken,216,5,Transmutation,8 Hours,,x,x,x,,x,,x,,,,,
+Bane,216,1,Enchantment,1 Action,,x,x,x,x,x,x,,,,,,
+Banishing Smite,216,5,Abjuration,1 Bonus Action,,x,,,x,,,,x,,,,
+Banishment,217,4,Abjuration,1 Action,,x,x,x,x,,x,,x,,x,x,x
+Barkskin,217,2,Transmutation,1 Action,,x,x,x,x,,,x,,x,,,
+Beacon of Hope,217,3,Abjuration,1 Action,,x,x,,x,,x,,,,,,
+Beast Sense,217,2,Divination,1 Action,x,,x,,x,,,x,,x,,,
+Bestow Curse,218,3,Necromancy,1 Action,,x,x,,x,x,x,,,,,,x
+Bigby's Hand,218,5,Evocation,1 Action,,x,x,x,x,,,,,,,,x
+Blade Barrier,218,6,Evocation,1 Action,,x,x,,x,,x,,,,,,
+Blade Ward,218,0,Abjuration,1 Action,,x,x,,,x,,,,,x,x,x
+Bless,219,1,Enchantment,1 Action,,x,x,x,x,,x,,x,,,,
+Blight,219,4,Necromancy,1 Action,,x,x,,,,,x,,,x,x,x
+Blinding Smite,219,3,Evocation,1 Bonus Action,,x,,,x,,,,x,,,,
+Blindness/Deafness,219,2,Necromancy,1 Action,,x,,,,x,x,,,,x,,x
+Blink,219,3,Transmutation,1 Action,,x,x,,,,,,,,x,,x
+Blur,219,2,Illusion,1 Action,,x,,,x,,,,,,x,,x
+Branding Smite,219,2,Evocation,1 Bonus Action,,x,,,x,,,,x,,,,
+Burning Hands,220,1,Evocation,1 Action,,x,x,,,,,,,,x,,x
+Call Lightning,220,3,Conjuration,1 Action,,x,x,,x,,,x,,,,,
+Calm Emotions,221,2,Enchantment,1 Action,,x,x,,x,x,x,,,,,,
+Chain Lightning,221,6,Evocation,1 Action,,x,x,x,,,,,,,x,,x
+Charm Person,221,1,Enchantment,1 Action,,x,x,,,x,,x,,,x,x,x
+Chill Touch,221,0,Necromancy,1 Action,,x,x,,,,,,,,x,x,x
+Chromatic Orb,221,1,Evocation,1 Action,,x,x,x,,,,,,,x,,x
+Circle of Death,221,6,Necromancy,1 Action,,x,x,x,,,,,,,x,x,x
+Circle of Power,221,5,Abjuration,1 Action,,x,,,x,,,,x,,,,
+Clairvoyance,222,3,Divination,10 Minutes,,x,x,x,x,x,x,,,,x,,x
+Clone,222,8,Necromancy,1 Hour,,x,x,x,,,,,,,,,x
+Cloudkill,222,5,Conjuration,1 Action,,x,x,,x,,,,,,x,,x
+Cloud of Daggers,222,2,Conjuration,1 Action,,x,x,x,x,x,,,,,x,x,x
+Color Spray,222,1,Illusion,1 Action,,x,x,x,,,,,,,x,,x
+Command,223,1,Enchantment,1 Action,,x,,,,,x,,x,,,,
+Commune,223,5,Divination,1 Minute,x,x,x,x,,,x,,,,,,
+Commune with Nature,224,5,Divination,1 Minute,x,x,x,,,,,x,,x,,,
+Compelled Duel,224,1,Enchantment,1 Bonus Action,,x,,,x,,,,x,,,,
+Comprehend Languages,224,1,Divination,1 Action,x,x,x,x,,x,,,,,x,x,x
+Compulsion,224,4,Enchantment,1 Action,,x,x,,x,x,,,,,,,
+Cone of Cold,224,5,Evocation,1 Action,,x,x,x,,,,,,,x,,x
+Confusion,224,4,Enchantment,1 Action,,x,x,x,x,x,,x,,,x,,x
+Conjure Animals,225,3,Conjuration,1 Action,,x,x,,x,,,x,,x,,,
+Conjure Barrage,225,3,Conjuration,1 Action,,x,x,x,,,,,,x,,,
+Conjure Celestial,225,7,Conjuration,1 Minute,,x,x,,x,,x,,,,,,
+Conjure Elemental,225,5,Conjuration,1 Minute,,x,x,x,x,,,x,,,,,x
+Conjure Fey,226,6,Conjuration,1 Minute,,x,x,,x,,,x,,,,x,
+Conjure Minor Elementals,226,4,Conjuration,1 Minute,,x,x,,x,,,x,,,,,x
+Conjure Volley,226,5,Conjuration,1 Action,,x,x,x,,,,,,x,,,
+Conjure Woodland Beings,226,4,Conjuration,1 Action,,x,x,x,x,,,x,,x,,,
+Contact Other Plane,226,5,Divination,1 Minute,x,x,,,,,,,,,,x,x
+Contagion,227,5,Necromancy,1 Action,,x,x,,,,x,x,,,,,
+Contingency,227,6,Evocation,10 Minutes,,x,x,x,,,,,,,,,x
+Continual Flame,227,2,Evocation,1 Action,,x,x,x,,,x,,,,,,x
+Control Water,227,4,Transmutation,1 Action,,x,x,x,x,,x,x,,,,,x
+Control Weather,228,8,Transmutation,10 Minutes,,x,x,x,x,,x,x,,,,,x
+Cordon of Arrows,228,2,Transmutation,1 Action,,x,x,x,,,,,,x,,,
+Counterspell,228,3,Abjuration,Special,,,x,,,,,,,,x,x,x
+Create Food and Water,229,3,Conjuration,1 Action,,x,x,,,,x,,x,,,,
+Create or Destroy Water,229,1,Transmutation,1 Action,,x,x,x,,,x,x,,,,,
+Create Undead,229,6,Necromancy,1 Minute,,x,x,x,,,x,,,,,x,x
+Creation,229,5,Illusion,1 Minute,,x,x,x,,,,,,,x,,x
+Crown of Madness,229,2,Enchantment,1 Action,,x,x,,x,x,,,,,x,x,x
+Crusaders Mantle,230,3,Evocation,1 Action,,x,,,x,,,,x,,,,
+Cure Wounds,230,1,Evocation,1 Action,,x,x,,,x,x,x,x,x,,,
+Dancing Lights,230,0,Evocation,1 Action,,x,x,x,x,x,,,,,x,,x
+Darkness,230,2,Evocation,1 Action,,x,,x,x,,,x,,x,x,x,x
+Darkvision,230,2,Transmutation,1 Action,,x,x,x,,,,,,,x,,x
+Daylight,230,3,Evocation,1 Action,,x,x,,,,x,x,x,x,x,,
+Death Ward,230,4,Abjuration,1 Action,,x,x,,,,x,,x,,,,
+Delayed Blast Fireball,230,7,Evocation,1 Action,,x,x,x,x,,,,,,x,,x
+Demiplane,231,8,Conjuration,1 Action,,,x,,,,,,,,,x,x
+Destructive Wave,231,5,Evocation,1 Action,,x,,,,,,,x,,,,
+Detect Evil and Good,231,1,Divination,1 Action,,x,x,,x,,x,,x,,,,
+Detect Magic,231,1,Divination,1 Action,x,x,x,,x,x,x,x,x,x,x,,x
+Detect Poison and Disease,231,1,Divination,1 Action,x,x,x,x,x,,x,x,x,x,,,
+Detect Thoughts,231,2,Divination,1 Action,,x,x,x,x,x,,,,,x,,x
+Dimension Door,233,4,Conjuration,1 Action,,x,,,,x,,,,,x,x,x
+Disguise Self,233,1,Illusion,1 Action,,x,x,,,x,,,,,x,,x
+Disintegrate,233,6,Transmutation,1 Action,,x,x,x,,,,,,,x,,x
+Dispell Evil and Good,233,5,Abjuration,1 Action,,x,x,x,x,,x,,x,,,,
+Dispell Magic,234,3,Abjuration,1 Action,,x,x,,,x,x,x,x,,x,x,x
+Dissonate Whispers,234,1,Enchantment,1 Action,,x,,,,x,,,,,,,
+Divination,234,4,Divination,1 Action,x,x,x,x,,,x,,,,,,
+Divine Favor,234,1,Evocation,1 Bonus Action,,x,x,,x,,,,x,,,,
+Divine Word,234,7,Evocation,1 Bonus Action,,x,,,,,x,,,,,,
+Dominate Beast,234,4,Enchantment,1 Action,,x,x,,x,,,x,,,x,,
+Dominate Monster,235,8,Enchantment,1 Action,,x,x,,x,x,,,,,x,x,x
+Dominate Person,235,5,Enchantment,1 Action,,x,x,,x,x,,,,,x,,x
+Drawmij's Instant Summons,235,6,Conjuration,1 Minute,x,x,x,x,,,,,,,,,x
+Dream,236,5,Illusion,1 Minute,,x,x,x,,x,,,,,,x,x
+Druidcraft,236,0,Transmutation,1 Action,,x,x,,,,,x,,,,,
+Earthquake,236,8,Evocation,1 Action,,x,x,x,x,,x,x,,,x,,
+Eldritch Blast,237,0,Evocation,1 Action,,x,x,,,,,,,,,x,
+Elemental Weapon,237,3,Transmutation,1 Action,,x,x,,x,,,,x,,,,
+Enhance Ability,237,2,Transmutation,1 Action,,x,x,x,x,x,x,x,,,x,,
+Enlarge/Reduce,237,2,Transmutation,1 Action,,x,x,x,x,,,,,,x,,x
+Ensnaring Strike,237,1,Conjuration,1 Bonus Action,,x,,,x,,,,,x,,,
+Entangle,238,1,Conjuration,1 Action,,x,x,,x,,,x,,,,,
+Enthrall,238,2,Enchantment,1 Action,,x,x,,,x,,,,,,x,
+Etherealness,238,7,Transmutation,1 Action,,x,x,,,x,x,,,,x,x,x
+Evard's Black Tentacles,238,4,Conjuration,1 Action,,x,x,x,x,,,,,,,,x
+Expeditious Retreat,238,1,Transmutation,1 Bonus Action,,x,x,,x,,,,,,x,x,x
+Eyebite,238,6,Necromancy,1 Action,,x,x,,x,x,,,,,x,x,x
+Fabricate,239,4,Transmutation,10 Minutes,,x,x,,,,,,,,,,x
+Faerie Fire,239,1,Evocation,1 Action,,x,,,x,x,,x,,,,,
+False Life,239,1,Necromancy,1 Action,,x,x,x,,,,,,,x,,x
+Fear,239,3,Illusion,1 Action,,x,x,x,x,x,,,,,x,x,x
+Feather Fall,239,1,Transmutation,Special,,x,,x,,x,,,,,x,,x
+Feeble Mind,239,8,Enchantment,1 Action,,x,x,x,,x,,x,,,,x,x
+Feign Death,240,3,Necromancy,1 Action,x,x,x,x,,x,x,x,,,,,x
+Find Familiar,240,1,Conjuration,1 Hour,x,x,x,x,,,,,,,,,x
+Find Steed,240,2,Conjuration,10 Minutes,,x,x,,,,,,x,,,,
+Find the Path,240,6,Divination,1 Minute,,x,x,x,x,x,x,x,,,,,
+Find Traps,241,2,Divination,1 Action,,x,x,,,,x,x,,x,,,
+Finger of Death,241,7,Necromancy,1 Action,,x,x,,,,,,,,x,x,x
+Fireball,241,3,Evocation,1 Action,,x,x,x,,,,,,,x,,x
+Fire bolt,241,0,Evocation,1 Action,,x,x,,,,,,,,x,,x
+Fire Shield,241,4,Evocation,1 Action,,x,x,x,,,,,,,,,x
+Fire Storm,241,7,Evocation,1 Action,,x,x,,,,x,x,,,x,,
+Flame Blade,242,2,Evocation,1 Bonus Action,,x,x,x,x,,,x,,,,,
+Flame Strike,242,5,Evocation,1 Action,,x,x,x,,,x,,,,,,
+Flaming Sphere,242,2,Conjuration,1 Action,,x,x,x,x,,,x,,,,,x
+Flesh to Stone,243,6,Transmutation,1 Action,,x,x,x,x,,,,,,,x,x
+Fly,243,3,Transmutation,1 Action,,x,x,x,x,,,,,,x,x,x
+Fog Cloud,243,1,Conjuration,1 Action,,x,x,,x,,,x,,x,x,,x
+Forbiddance,243,6,Abjuration,10 Minutes,x,x,x,x,,,x,,,,,,
+Forcecage,243,7,Evocation,1 Action,,x,x,x,,x,,,,,,x,x
+Foresight,244,9,Divination,1 Minute,,x,x,x,,x,,x,,,,x,x
+Freedom of Movement,244,4,Abjuration,1 Action,,x,x,x,,x,x,x,,x,,,
+Friends,244,0,Enchantment,1 Action,,,x,x,x,x,,,,,x,x,x
+Gaseous Form,244,3,Transmutation,1 Action,,x,x,x,x,,,,,,x,x,x
+Gate,244,9,Conjuration,1 Action,,x,x,x,x,,x,,,,x,,x
+Geas,245,5,Enchantment,1 Minute,,x,,,,x,x,x,x,,,,x
+Gentle Repose,245,2,Necromancy,1 Action,x,x,x,x,,,x,,,,,,x
+Giant Insect,245,4,Transmutation,1 Action,,x,x,,x,,,x,,,,,
+Glibness,245,8,Transmutation,1 Action,,x,,,,x,,,,,,x,
+Globe of Invulnerability,245,6,Abjuration,1 Action,,x,x,x,x,,,,,,x,,x
+Glyph of Warding,245,3,Abjuration,1 Hour,,x,x,x,,x,x,,,,,,x
+Goodberry,246,1,Transmutation,1 Action,,x,x,x,,,,x,,x,,,
+Grasping Vine,246,4,Conjuration,1 Bonus Action,,x,x,,x,,,x,,x,,,
+Grease,246,1,Conjuration,1 Action,,x,x,x,,,,,,,,,x
+Greater Invisibility,246,4,Illusion,1 Action,,x,x,,x,x,,,,,x,,x
+Greater Restoration,246,5,Abjuration,1 Action,,x,x,x,,x,x,x,,,,,
+Guardian of Faith,246,4,Conjuration,1 Action,,x,,,,,x,,,,,,
+Guards and Wards,248,6,Abjuration,10 Minutes,,x,x,x,,x,,,,,,,x
+Guidance,248,0,Divination,1 Action,,x,x,,,,x,x,,,,,
+Guiding Bolt,248,1,Evocation,1 Action,,x,x,,,,x,,,,,,
+Gust of Wind,248,2,Evocation,1 Action,,x,x,x,x,,,x,,,x,,x
+Hail of Thorns,249,1,Conjuration,1 Bonus Action,,x,,,x,,,,,x,,,
+Hallow,249,5,Evocation,24 Hours,,x,x,x,,,x,,,,,,
+Hallucinatory Terrain,249,4,Illusion,10 Minutes,,x,x,x,,x,,x,,,,x,x
+Harm,249,6,Necromancy,1 Action,,x,x,,,,x,,,,,,
+Haste,250,3,Transmutation,1 Action,,x,x,x,x,,,,,,x,,x
+Heal,250,6,Evocation,1 Action,,x,x,,,,x,x,,,,,
+Healing Word,250,1,Evocation,1 Bonus Action,,x,,,,x,x,x,,,,,
+Heat Metal,250,2,Transmutation,1 Action,,x,x,x,x,x,,x,,,,,
+Hellish Rebuke,250,1,Evocation,Special,,x,x,,,,,,,,,x,
+Heroes' Feast,251,6,Conjuration,10 Minutes,,x,x,x,,,x,x,,,,,
+Heroism,250,1,Enchantment,1 Action,,x,x,,x,x,,,x,,,,
+Hex,251,1,Enchantment,1 Bonus Action,,x,x,x,x,,,,,,,x,
+Hold Monster,251,5,Enchantment,1 Action,,x,x,x,x,x,,,,,x,x,x
+Hold Person,251,2,Enchantment,1 Action,,x,x,x,x,x,x,x,,,x,x,x
+Holy Aura,251,8,Abjuration,1 Action,,x,x,x,x,,x,,,,,,
+Hunger of Hadar,251,3,Conjuration,1 Action,,x,x,x,x,,,,,,,x,
+Hunter's Mark,251,1,Divination,1 Bonus Action,,x,,,x,,,,,x,,,
+Hypnotic Pattern,252,3,Illusion,1 Action,,,x,x,x,x,,,,,x,x,x
+Ice Storm,252,4,Evocation,1 Action,,x,x,x,,,,x,,,x,,x
+Identify,252,1,Divination,1 Minute,x,x,x,x,,x,,,,,,,x
+Illusory Script,252,1,Illusion,1 Minute,x,,x,x,,x,,,,,,x,x
+Imprisonment,252,9,Abjuration,1 Minute,,x,x,x,,,,,,,,x,x
+Incendiary Cloud,253,8,Conjuration,1 Action,,x,x,,x,,,,,,x,,x
+Inflict Wounds,253,1,Necromancy,1 Action,,x,x,,,,x,,,,,,
+Insect Plague,254,5,Conjuration,1 Action,,x,x,x,x,,x,x,,,x,,
+Invisibility,254,2,Illusion,1 Action,,x,x,x,x,x,,,,,x,x,x
+Jump,254,1,Transmutation,1 Action,,x,x,x,,,,x,,x,x,,x
+Knock,254,2,Transmutation,1 Action,,x,,,,x,,,,,x,,x
+Legend Lore,254,5,Divination,10 Minutes,,x,x,x,,x,x,,,,,,x
+Leomund's Secret Chest,254,4,Conjuration,1 Action,,x,x,x,,,,,,,,,x
+Leomund's Tiny Hut,255,3,Evocation,1 Minute,x,x,x,x,,x,,,,,,,x
+Lesser Restoration,255,2,Abjuration,1 Action,,x,x,,,x,x,x,x,x,,,
+Levitate,255,2,Transmutation,1 Action,,x,x,x,x,,,,,,x,,x
+Light,255,0,Evocation,1 Action,,x,,x,,x,x,,,,x,,x
+Lightning Arrow,255,3,Transmutation,1 Bonus Action,,x,x,,x,,,,,x,,,
+Lightning Bolt,255,3,Evocation,1 Action,,x,x,x,,,,,,,x,,x
+Locate Animals or Plants,256,2,Divination,1 Action,x,x,x,x,,x,,x,,x,,,
+Locate Creature,256,4,Divination,1 Action,,x,x,x,x,x,x,x,x,x,,,x
+Locate Object,256,2,Divination,1 Action,,x,x,x,x,x,x,x,x,x,,,x
+Longstrider,256,1,Transmutation,1 Action,,x,x,x,,x,,x,,x,,,x
+Mage Armor,256,1,Abjuration,1 Action,,x,x,x,,,,,,,x,,x
+Mage Hand,256,0,Conjuration,1 Action,,x,x,,,x,,,,,x,x,x
+Magic Circle,256,3,Abjuration,1 Minute,,x,x,x,,,x,,x,,,x,x
+Magic Jar,257,6,Necromancy,1 Minute,,x,x,x,,,,,,,,,x
+Magic Missile,257,1,Evocation,1 Action,,x,x,,,,,,,,x,,x
+Magic Mouth,257,2,Illusion,1 Minute,x,x,x,x,,x,,,,,,,x
+Magic Weapon,257,2,Transmutation,1 Bonus Action,,x,x,,x,,,,x,,,,x
+Major Image,258,3,Illusion,1 Action,,x,x,x,x,x,,,,,x,x,x
+Mass Cure Wounds,258,5,Conjuration,1 Action,,x,x,,,x,x,x,,,,,
+Mass Heal,258,9,Conjuration,1 Action,,x,x,,,,x,,,,,,
+Mass Healing Word,258,3,Evocation,1 Bonus Action,,x,,,,,x,,,,,,
+Mass Suggestion,258,6,Enchantment,1 Action,,x,,x,,x,,,,,x,x,x
+Maze,258,8,Conjuration,1 Action,,x,x,,x,,,,,,,,x
+Meld into Stone,259,3,Transmutation,1 Action,x,x,x,,,,x,x,,,,,
+Melf's Acid Arrow,259,2,Evocation,1 Action,,x,x,x,,,,,,,,,x
+Mending,259,0,Transmutation,1 Minute,,x,x,x,,x,x,x,,,x,,x
+Message,259,0,Transmutation,1 Action,,x,x,x,,x,,,,,x,,x
+Meteor Swarm,259,9,Evocation,1 Action,,x,x,,,,,,,,x,,x
+Mind Blank,259,8,Abjuration,1 Action,,x,x,,,x,,,,,,,x
+Minor Illusion,260,0,Illusion,1 Action,,,x,x,,x,,,,,x,x,x
+Mirage Arcane,260,7,Illusion,10 Minutes,,x,x,,,x,,x,,,,,x
+Mirror Image,260,2,Illusion,1 Action,,x,x,,,,,,,,x,x,x
+Mislead,260,5,Illusion,1 Action,,,x,,x,x,,,,,,,x
+Misty Step,260,2,Conjuration,1 Bonus Action,,x,,,,,,,,,x,x,x
+Modify Memory,261,5,Enchantment,1 Action,,x,x,,x,x,,,,,,,x
+Moonbeam,261,2,Evocation,1 Action,,x,x,x,x,,,x,,,,,
+Mordenkainen's Faithful Hound,261,4,Conjuration,1 Action,,x,x,x,,,,,,,,,x
+Mordenkainen's Magnificent Mansion,261,7,Conjuration,1 Minute,,x,x,x,,x,,,,,,,x
+Mordenkainen's Private Sanctum,262,4,Abjuration,10 Minutes,,x,x,x,,,,,,,,,x
+Mordenkainen's Sword,262,7,Evocation,1 Action,,x,x,x,x,x,,,,,,,x
+Move Earth,263,6,Transmutation,1 Action,,x,x,x,x,,,x,,,x,,x
+Nondetection,263,3,Abjuration,1 Action,,x,x,x,,x,,,,x,,,x
+Nystul's Magic Aura,263,2,Illusion,1 Action,,x,x,x,,,,,,,,,x
+Otiluke's Freezing Sphere,263,6,Evocation,1 Action,,x,x,x,,,,,,,,,x
+Otiluke's Resilient Sphere,264,4,Evocation,1 Action,,x,x,x,x,,,,,,,,x
+Otto's Irresistable Dance,264,6,Enchantment,1 Action,,x,,,x,x,,,,,,,x
+Passwall,264,5,Transmutation,1 Action,,x,x,x,,,,,,,,,x
+Pass without Trace,264,2,Abjuration,1 Action,,x,x,x,x,,,x,,x,,,
+Phantasmal Force,264,2,Illusion,1 Action,,x,x,x,x,x,,,,,x,,x
+Phantasmal Killer,265,4,Illusion,1 Action,,x,x,,x,,,,,,,,x
+Phantom Steed,265,3,Illusion,1 Minute,x,x,x,,,,,,,,,,x
+Planar Ally,265,6,Conjuration,10 Minutes,,x,x,,,,x,,,,,,
+Planar Binding,265,5,Abjuration,1 Hour,,x,x,x,,x,x,x,,,,,x
+Plane Shift,266,7,Conjuration,1 Action,,x,x,x,,,x,x,,,x,x,x
+Plant Growth,266,3,Transmutation,Special,,x,x,,,x,,x,,x,,,
+Poison Spray,266,0,Conjuration,1 Action,,x,x,,,,,x,,,x,x,x
+Polymorph,266,4,Transmutation,1 Action,,x,x,x,x,x,,x,,,x,,x
+Power Word Heal,266,9,Evocation,1 Action,,x,x,,,x,,,,,,,
+Power Word Kill,266,9,Enchantment,1 Action,,x,,,,x,,,,,x,x,x
+Power Word Stun,267,8,Enchantment,1 Action,,x,,,,x,,,,,x,x,x
+Prayer of Healing,267,2,Evocation,10 Minutes,,x,,,,,x,,,,,,
+Prestidigitation,267,0,Transmutation,1 Action,,x,x,,,x,,,,,x,x,x
+Prismatic Spray,267,7,Evocation,1 Action,,x,x,,,,,,,,x,,x
+Prismatic Wall,267,9,Abjuration,1 Action,,x,x,,,,,,,,,,x
+Produce Flame,269,0,Conjuration,1 Action,,x,x,,,,,x,,,,,
+Programmed Illusion,269,6,Illusion,1 Action,,x,x,x,,x,,,,,,,x
+Project Image,270,7,Illusion,1 Action,,x,x,x,x,x,,,,,,,x
+Protection from Energy,270,3,Abjuration,1 Action,,x,x,,x,,x,x,,x,x,,x
+Protection from Evil and Good,270,1,Abjuration,1 Action,,x,x,x,x,,x,,x,,,x,x
+Protection from Poison,270,2,Abjuration,1 Action,,x,x,,,,x,x,x,x,,,
+Purify Food and Drink,270,1,Transmutation,1 Action,x,x,x,,,,x,x,x,,,,
+Raise Dead,270,5,Necromancy,1 Hour,,x,x,x,,x,x,,x,,,,
+Rary's Telepathic Bond,270,5,Divination,1 Action,x,x,x,x,,,,,,,,,x
+Ray of Enfeeblement,271,2,Necromancy,1 Action,,x,x,,x,,,,,,,x,x
+Ray of Frost,271,0,Evocation,1 Action,,x,x,,,,,,,,x,,x
+Ray of Sickness,271,1,Necromancy,1 Action,,x,x,,,,,,,,x,,x
+Regenerate,271,7,Transmutation,1 Minute,,x,x,x,,x,x,x,,,,,
+Reincarnate,271,5,Transmutation,1 Hour,,x,x,x,,,,x,,,,,
+Remove Curse,271,3,Abjuration,1 Action,,x,x,,,,x,,x,,,x,x
+Resistance,272,0,Abjuration,1 Action,,x,x,x,x,,x,x,,,,,
+Resurrection,272,7,Necromancy,1 Hour,,x,x,x,,x,x,,,,,,
+Reverse Gravity,272,7,Transmutation,1 Action,,x,x,x,x,,,x,,,x,,x
+Revivify,272,3,Conjuration,1 Action,,x,x,x,,,x,,x,,,,
+Rope Trick,272,2,Transmutation,1 Action,,x,x,x,,,,,,,,,x
+Sacred Flame,272,0,Evocation,1 Action,,x,x,,,,x,,,,,,
+Sanctuary,272,1,Abjuration,1 Bonus Action,,x,x,x,,,x,,,,,,
+Scorching Ray,273,2,Evocation,1 Action,,x,x,,,,,,,,x,,x
+Scrying,273,5,Divination,10 Minutes,,x,x,x,x,x,x,x,,,,x,x
+Searing Smite,274,1,Evocation,1 Bonus Action,,x,,,x,,,,x,,,,
+See Invisibility,274,2,Divination,1 Action,,x,x,x,,x,,,,,x,,x
+Seeming,274,5,Illusion,1 Action,,x,x,,,x,,,,,x,,x
+Sending,274,3,Evocation,1 Action,,x,x,x,,x,x,,,,,,x
+Sequester,274,7,Transmutation,1 Action,,x,x,x,,,,,,,,,x
+Shapechange,274,9,Transmutation,1 Action,,x,x,x,x,,,x,,,,,x
+Shatter,275,2,Evocation,1 Action,,x,x,x,,x,,,,,x,x,x
+Shield,275,1,Abjuration,Special,,x,x,,,,x,,,,x,,x
+Shield of Faith,275,1,Abjuration,1 Bonus Action,,x,x,x,x,,,,x,,,,
+Shillelagh,275,0,Transmutation,1 Bonus Action,,x,x,x,,,,x,,,,,
+Shocking Grasp,275,0,Evocation,1 Action,,x,x,,,,,,,,x,,x
+Silence,275,2,Illusion,1 Action,x,x,x,,x,x,x,,,x,,,
+Silent Image,276,1,Illusion,1 Action,,x,x,x,x,x,,,,,x,,x
+Simulacrum,276,7,Illusion,12 Hours,,x,x,x,,,,,,,,,x
+Sleep,276,1,Enchantment,1 Action,,x,x,x,,x,,,,,x,,x
+Sleet Storm,276,3,Conjuration,1 Action,,x,x,x,x,,,x,,,x,,x
+Slow,277,3,Transmutation,1 Action,,x,x,x,x,,,,,,x,,x
+Spare the Dying,277,0,Necromancy,1 Action,,x,x,,,,x,,,,,,
+Speak with Animals,277,1,Divination,1 Action,x,x,x,,,x,,x,,x,,,
+Speak with Dead,277,3,Necromancy,1 Action,,x,x,x,,x,x,,,,,,
+Speak with Plants,277,3,Transmutation,1 Action,,x,x,,,x,,x,,x,,,
+Spider Climb,277,2,Transmutation,1 Action,,x,x,x,x,,,,,,x,x,x
+Spike Growth,277,2,Transmutation,1 Action,,x,x,x,x,,,x,,x,,,
+Spirit Guardians,278,3,Conjuration,1 Action,,x,x,x,x,,x,,,,,,
+Spiritual Weapon,278,2,Evocation,1 Bonus Action,,x,x,,,,x,,,,,,
+Staggering Smite,278,4,Evocation,1 Bonus Action,,x,,,x,,,,x,,,,
+Stinking Cloud,278,3,Conjuration,1 Action,,x,x,x,x,x,,,,,x,,x
+Stone Shape,278,4,Transmutation,1 Action,,x,x,x,,,x,x,,,,,x
+Stoneskin,278,4,Abjuration,1 Action,,x,x,x,x,,,x,,x,x,,x
+Storm of Vengeance,279,9,Conjuration,1 Action,,x,x,,x,,,x,,,,,
+Suggestion,279,2,Enchantment,1 Action,,x,,x,x,x,,,,,x,x,x
+Sunbeam,279,6,Evocation,1 Action,,x,x,x,x,,,x,,,x,,x
+Sunburst,279,8,Evocation,1 Action,,x,x,x,,,,x,,,x,,x
+Swift Quiver,279,5,Transmutation,1 Bonus Action,,x,x,x,x,,,,,x,,,
+Symbol,280,7,Abjuration,1 Minute,,x,x,x,,x,x,,,,,,x
+Tasha's Hideous Laughter,280,1,Enchantment,1 Action,,x,x,x,x,x,,,,,,,x
+Telekinesis,280,5,Transmutation,1 Action,,x,x,,x,,,,,,x,,x
+Telepathy,281,8,Evocation,1 Action,,x,x,x,,,,,,,,,x
+Teleporation Circle,281,5,Conjuration,1 Minute,,x,,x,,x,,,,,x,,x
+Teleport,281,7,Conjuration,1 Action,,x,,,,x,,,,,x,,x
+Tenser's Floating Disk,282,1,Conjuration,1 Action,x,x,x,x,,,,,,,,,x
+Thaumaturgy,282,0,Transmutation,1 Action,,x,,,,,x,,,,,,
+Thorn Whip,282,0,Transmutation,1 Action,,x,x,x,,,,x,,,,,
+Thunderous Smite,282,1,Evocation,1 Bonus Action,,x,,,x,,,,x,,,,
+Thunderwave,282,1,Evocation,1 Action,,x,x,,,x,,x,,,x,,x
+Time Stop,283,9,Transmutation,1 Action,,x,,,,,,,,,x,,x
+Tongues,283,3,Divination,1 Action,,x,,x,,x,x,,,,x,x,x
+Transport via Plants,283,6,Conjuration,1 Action,,x,x,,,,,x,,,,,
+Tree Stride,283,5,Conjuration,1 Action,,x,x,,x,,,x,,x,,,
+True Polymorph,283,9,Transmutation,1 Action,,x,x,x,x,x,,,,,,x,x
+True Resurrection,284,9,Necromancy,1 Hour,,x,x,x,,,x,x,,,,,
+True Seeing,284,6,Divination,1 Action,,x,x,x,,x,x,,,,x,x,x
+True Strike,284,0,Divination,1 Action,,,x,,x,x,,,,,x,x,x
+Tsunami,284,8,Conjuration,1 Minute,,x,x,,x,,,x,,,,,
+Unseen Servant,284,1,Conjuration,1 Action,x,x,x,x,,x,,,,,,x,x
+Vampiric Touch,285,3,Necromancy,1 Action,,x,x,,x,,,,,,,x,x
+Vicious Mockery,285,0,Enchantment,1 Action,,x,,,,x,,,,,,,
+Wall of Fire,285,4,Evocation,1 Action,,x,x,x,x,,,x,,,x,,x
+Wall of Force,285,5,Evocation,1 Action,,x,x,x,x,,,,,,,,x
+Wall of Ice,285,6,Evocation,1 Action,,x,x,x,x,,,,,,,,x
+Wall of Stone,287,5,Evocation,1 Action,,x,x,x,x,,,x,,,x,,x
+Wall of Thorns,287,6,Conjuration,1 Action,,x,x,x,x,,,x,,,,,
+Warding Bond,287,2,Abjuration,1 Action,,x,x,x,,,x,,,,,,
+Water Breathing,287,3,Transmutation,1 Action,x,x,x,x,,,,x,,x,x,,x
+Water Walk,287,3,Transmutation,1 Action,x,x,x,x,,,x,x,,x,x,,
+Web,287,2,Conjuration,1 Action,,x,x,x,x,,,,,,x,,x
+Weird,288,9,Illusion,1 Action,,x,x,,x,,,,,,,,x
+Wind Walk,288,6,Transmutation,1 Minute,,x,x,x,,,,x,,,,,
+Wind Wall,288,3,Evocation,1 Action,,x,x,x,x,,,x,,x,,,
+Wish,288,9,Conjuration,1 Action,,x,,,,,,,,,x,,x
+Witch Bolt,289,1,Evocation,1 Action,,x,x,x,x,,,,,,x,x,x
+Word of Recall,289,6,Conjuration,1 Action,,x,,,,,x,,,,,,
+Wrathful Smite,289,1,Evocation,1 Bonus Action,,x,,,x,,,,x,,,,
+Zone of Truth,289,2,Enchantment,1 Action,,x,x,,,x,x,,x,,,,

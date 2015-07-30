@@ -1,0 +1,154 @@
+[Dwarf]
+abilities = "con+2"
+speed = 25
+page = 18
+weapon_proficiencies = ["battleaxe", "handaxe", "throwing hammer", "warhammer"]
+tool_proficiencies = ["choose:smith's tools;brewer's supplies;mason's tools"]
+languages = ["Common", "Dwarvish"]
+  [[Dwarf.traits]]
+  name = "Darkvision"
+  desc = """\
+    Accustomed to life underground, you have superior vision in dark and dim conditions. \
+    You can see in dim light within 60 feet as if it were bright light, and in darkness as \
+    if it were dim light. You can't discern color in darkness, only shades of gray.\
+  """
+
+  [[Dwarf.traits]]
+  name = "Dwarven Resilience"
+  desc = """\
+    You have advantage on saving throws against poison, and you have resistance against poison \
+    damage.\
+  """
+
+  [[Dwarf.traits]]
+  name = "Stonecunning"
+  desc = """\
+    Whenever you make an Intelligence (History) check related to the origin of stonework, \
+    you are considered proficient in the History skill and add double your proficiency bonus \
+    to the check, instead of your normal proficiency bonus.\
+  """
+
+  [Dwarf.subraces."Hill Dwarf"]
+  page = 20
+  abilities = "wis+1"
+  hp_bonus = 1
+
+  [Dwarf.subraces."Mountain Dwarf"]
+  page = 20
+  abilities = "str+2"
+  armor_proficiencies = ["light", "medium"]
+
+[Elf]
+abilities = "dex+2"
+speed = 30
+page = 21
+skill_proficiencies = ["perception"]
+languages = ["common", "elvish"]
+  [[Elf.traits]]
+  name = "Darkvision"
+  desc = """\
+    Accustomed to twilit forests and the night ski, you have superior vision in dark and dim \
+    conditions. You can see in dim light within 60 feet as if it were bright light, and in \
+    darkness as if it were dim light. You can't discern color in darkness, only shades of gray.\
+  """
+
+  [[Elf.traits]]
+  name = "Fey Ancestry"
+  desc = """\
+    You have advantage on saving throws against being charmed, and magic can't put you to sleep.\
+  """
+
+  [[Elf.traits]]
+  name = "Trance"
+  desc = """\
+    Elves don't need to sleep. Instead, they meditate deeply, remaining semiconscious, for 4 hours \
+    a day. (The Common word for such meditation is "trance.") While meditating, you can dream \
+    after a fashion; such dreams are actually mental excercises that have become reflexive through \
+    years of practice. After resting in this way, you gain the same benefit that a human does from \
+    8 hours of sleep.\
+  """
+
+  [Elf.subraces."High Elf"]
+  abilities = "int+1"
+  page = 23
+  weapon_proficiencies = ["longsword", "shortsword", "shortbow", "longbow"]
+  languages = ["choose:any"]
+
+  [Elf.subraces."High Elf".spells]
+  cantrips = 1
+
+  [Elf.subraces."Wood Elf"]
+  speed = 35
+  abilities = "wis+1"
+  page = 24
+  weapon_proficiencies = ["longsword", "shortsword", "shortbow", "longbow"]
+
+    [[Elf.subraces."Wood Elf".traits]]
+    name = "Mask of the wild"
+    desc = """\
+      You can attempt to hide even when you are only lightly obscured by foliage, heavy rain, \
+      falling snow, mist, and other natural phenomena.\
+    """
+
+  [Elf.subraces."Dark Elf (Drow)"]
+  abilities = "cha+1"
+  page = 24
+  weapon_proficiencies = ["rapiers", "shortswords", "hand crossbows"]
+
+    [[Elf.subraces."Dark Elf (Drow)".traits]]
+    name = "Superior Darkvision"
+    desc = "Your darkvision has a radius of 120 feet."
+
+    [[Elf.subraces."Dark Elf (Drow)".traits]]
+    name = "Sunlight Sensitivity"
+    desc = """\
+      You have a disadvantage on attack rolls and on Wisdom (Perception) checks that rely on sight \
+      when you, the target of your attack, or whatever you are trying to percieve are in direct \
+      sunlight.\
+    """
+
+[Halfling]
+speed = 25
+abilities = "dex+2"
+page = 26
+  [[Halfling.traits]]
+  name = "Lucky"
+  desc = """\
+    When you roll a 1 on an attack roll, ability check, or saving throw, you can reroll the die \
+    and must use the new roll.\
+  """
+
+  [[Halfling.traits]]
+  name = "Brave"
+  desc = "You have advantage on saving throws against being frightened"
+
+  [Halfling.subraces."Light foot"]
+  abilities = "cha+1"
+
+  [Halfling.subraces.Stout]
+  abilities = "int+1"
+
+[Human]
+abilities = "str+1;dex+1;con+1;int+1;wis+1;cha+1"
+speed = 30
+
+[Dragonborn]
+abilities = "str+2;cha+1"
+speed = 30
+
+[Gnome]
+abilities = "int+2"
+speed = 25
+  [Gnome.subraces."Forest Gnome"]
+  abilities = "dex+1"
+
+  [Gnome.subraces."Rock Gnome"]
+  abilities = "con+1"
+
+[Half-Elf]
+abilities = "cha+2"
+speed = 30
+
+[Half-Orc]
+abilities = "str+2;con+1"
+speed = 30

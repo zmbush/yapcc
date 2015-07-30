@@ -2,3 +2,8 @@
 name = "yapcc"
 version = "0.1.0"
 authors = ["Zachary Bush <zachary.bush@meraki.net>"]
+
+[dependencies]
+toml = "*"
+rustc-serialize = "*"
+csv = "*"
