@@ -36,6 +36,7 @@ pub struct Spell {
     pub traits: SpellTraits
 }
 
+#[derive(Debug, RustcEncodable)]
 pub struct SpellBook {
     pub spells: HashMap<String, Spell>
 }

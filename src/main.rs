@@ -19,7 +19,7 @@ fn do_main() -> YAPCCResult<()> {
     let races = try!(PartialRaces::new("races.toml"));
     let race = races.choose();
     println!("{}", toml::encode_str(&race));
-    println!("{}", toml::encode_str(&book.spells.get("Magic Missile")));
+    println!("{}", toml::encode_str(&book));
     Ok(())
 }
 
